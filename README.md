@@ -28,7 +28,7 @@ GUI version     --> run GUIv4.py
 
 # Exapmle screens from game
 * MENU
-![Menu](./images/Menu.jpg)
+![Menu](./images/menu.jpg)
 
 * PREFLOP
 ![PREFLOP](./images/game_preflop.jpg)
