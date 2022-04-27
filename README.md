@@ -18,7 +18,7 @@ Heads up means that you play 1 vs 1
 ## USAGE
 
 ```bash
-Console version --> run pokerv2.py
+Console version --> run pokerv2.py (Only test not play)
 GUI version     --> run GUIv4.py
 ```
 
