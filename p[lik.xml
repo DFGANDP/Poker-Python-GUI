@@ -1,0 +1,49 @@
+Pisze kod w pythonie, potrzebuje przerobic plik xml
+korzystam z defusedxml
+
+mam plik xml do ktorego potrzebuje dodac nowa tabele 
+
+plik ma taki content
+<?xml version='1.0' encoding='utf-8', standalone='no'>
+<reportdata>
+    <table name="Info">
+        <headers>
+            <header>ID</header>
+            <header>Messeage</header>
+        </headers>
+        <row>
+            <cell>1</cell>
+            <cell>haha</cell>
+        </row>
+        <row>
+            <cell>2</cell>
+            <cell>haasdha</cell>
+        </row>
+        <row>
+            <cell>3</cell>
+            <cell>hahasdasda</cell>
+        </row>
+    </table>
+    <table name="report">
+        <headers>
+            <header>ID</header>
+            <header>ID_acc</header>
+            <header>Messeage</header>
+        </headers>
+        <row>
+            <cell>1123</cell>
+            <cell>112312</cell>
+            <cell>haha</cell>
+        </row>
+        <row>
+            <cell>1112323</cell>
+            <cell>111231232312</cell>
+            <cell>hah123a</cell>
+        </row>
+        <row>
+            <cell>1112323</cell>
+            <cell>112123312</cell>
+            <cell>ha123ha</cell>
+        </row>
+    </table>
+</reportdata>
